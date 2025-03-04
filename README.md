@@ -2,6 +2,9 @@
 
 A Python-based cryptocurrency trading analysis tool that leverages the Binance API to fetch and analyze historical price data for various trading pairs.
 
+![image](https://github.com/user-attachments/assets/eb0b7092-d9e2-4fd7-b58c-d9c36885fc29)
+
+
 ## Overview 🚀
 
 This project implements an intraday trading analysis system that allows users to:
